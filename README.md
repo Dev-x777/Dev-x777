@@ -1,4 +1,4 @@
-<div align="center" style="width: 1061; height: 300px; overflow: hidden;">
+<div align="center" style="width: 1061; height: 300px; overflow: hidden; "display: flex; align-items: center; justify-content: center;">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRuZzg5bDh3MjJ2ZWNuYWljMDJmdmY5NnRxdzQ1NjM2OWo0NzM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" style="width: 100%; height: 300px; object-fit: cover;" />
 </div>
 
