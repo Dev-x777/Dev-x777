@@ -1,16 +1,24 @@
-
-
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<div align="center" style="width: 100%; height: 300px; overflow: hidden;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRuZzg5bDh3MjJ2ZWNuYWljMDJmdmY5NnRxdzQ1NjM2OWo0NzM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" style="width: 100%; height: 300px; object-fit: cover;" />
 </div>
 
-###
+<!-- Dotted line -->
+<div style="border-bottom: 2px dotted black; margin: 20px 0;"></div>
 
-<h1 align="center">Hi 👋, I'm Devjeet Saha</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<!-- Second image and text -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img 
+      height="200" 
+      src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+      style="position: right; top: 20px; left: 0; margin: 20px; margin-bottom: 50px;" 
+    />
+    <div>
+      <h1 style="margin: 20px;">Hi 👋, I'm Devjeet Saha</h1>
+      <h3 style="margin: 5px;">A passionate FullStack developer from India</h3>
+    </div>
+  </div>
+
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-x777&label=Profile%20views&color=0e75b6&style=flat" alt="dev-x777" /> </p>
 
