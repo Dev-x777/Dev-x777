@@ -1,10 +1,14 @@
-<div align="center" style="width: 1280px; height: 640px; overflow: hidden;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM1cmpldTBoa2drbzgyODc2ZGpzN2I3Ym5vOW1xZXEwM3l3YmJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;" />
-  </div>
+<div align="center" style="width: 961; height: 300px; overflow: hidden;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRuZzg5bDh3MjJ2ZWNuYWljMDJmdmY5NnRxdzQ1NjM2OWo0NzM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" style="width: 100%; height: 300px; object-fit: cover;" />
+</div>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+  </head>
   
 
 <!-- Dotted line -->
-<div style="border-bottom: 2px dotted black; margin: 20px 0;"></div>
+<div style="border-bottom: 1.5px dotted black; width: 961px; margin: 20px auto;"></div>
+
 
 <!-- Second image and text -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
@@ -14,8 +18,9 @@
       style="position: right; top: 20px; left: 0; margin: 20px; margin-bottom: 50px;" 
     />
     <div>
-      <h1 style="margin: 20px;">Hi 👋, I'm Devjeet Saha</h1>
-      <h3 style="margin: 5px;">A passionate FullStack developer from India</h3>
+        <h1 style="margin: 20px; font-family: 'Poppins', sans-serif; font-weight: bold;">Hi 👋, I'm Devjeet Saha</h1>
+        <h3 style="margin: 5px; font-family: 'Poppins', sans-serif; font-weight: bold;">A passionate FullStack developer from India</h3>
+        
     </div>
   </div>
 
