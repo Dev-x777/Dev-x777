@@ -25,7 +25,33 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,vscode&perline=8" alt="tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+backends+that+scale+%F0%9F%9A%80;Crafting+smooth+iOS+apps+%F0%9F%93%B1;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%E2%9C%A8" alt="typing animation" />
+</p>
+
+<h4 align="center">🌐 Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="frontend" />
+</p>
+
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,fastapi,nodejs,express&perline=8" alt="backend" />
+</p>
+
+<h4 align="center">📱 Mobile</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,xcode&perline=8" alt="mobile" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
+</p>
+
+<h4 align="center">🗄️ Databases & Caching</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=8" alt="databases" />
+</p>
+
+<h4 align="center">☁️ DevOps & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,git,github,linux,postman,vscode,idea,xcode&perline=12" alt="devops and tools" />
 </p>
 
 ---
