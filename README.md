@@ -1,13 +1,32 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlcWNqejl2ajgzbWFmbGRneG9kejY2ZjBta2E5NWFva2UxeXMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTmLmZOdGoCwyIkZUY/giphy.gif" width="100%" height="300" alt="banner" />
-</div>
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
 
 <br/>
 
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="200" alt="coding gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="200" alt="hi there" />
     </td>
     <td valign="middle">
       <h1>Hi 👋, I'm Devjeet Saha</h1>
@@ -20,41 +39,21 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman divider" />
+</p>
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+backends+that+scale+%F0%9F%9A%80;Crafting+smooth+iOS+apps+%F0%9F%93%B1;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%E2%9C%A8" alt="typing animation" />
-</p>
-
-<h4 align="center">🌐 Frontend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="frontend" />
-</p>
-
-<h4 align="center">⚙️ Backend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,fastapi,nodejs,express&perline=8" alt="backend" />
-</p>
-
-<h4 align="center">📱 Mobile</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,xcode&perline=8" alt="mobile" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,java,spring,python,flask,fastapi,nodejs,express,swift,xcode,postgres,mysql,mongodb,redis,firebase,supabase,docker,kubernetes,nginx,githubactions,aws,git,github,linux,postman,vscode,idea&perline=12" alt="tech stack" />
+  <br/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
 </p>
 
-<h4 align="center">🗄️ Databases & Caching</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=8" alt="databases" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman divider" />
 </p>
-
-<h4 align="center">☁️ DevOps & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,git,github,linux,postman,vscode,idea,xcode&perline=12" alt="devops and tools" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -97,4 +96,8 @@
   <a href="https://github.com/dev-x777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="coding vibe" />
 </p>
