@@ -23,12 +23,12 @@
 
 <br/>
 
-<table align="center" border="0">
+<table width="100%" border="0">
   <tr>
-    <td align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="200" alt="coding gif" />
     </td>
-    <td valign="middle">
+    <td width="65%" valign="middle">
       <h1>Hi 👋, I'm Devjeet Saha</h1>
       <h3>A passionate Full-Stack Developer from India 🇮🇳</h3>
       <p>
@@ -39,20 +39,12 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman divider" />
-</p>
-
 ### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,java,spring,python,flask,fastapi,nodejs,express,swift,xcode,postgres,mysql,mongodb,redis,firebase,supabase,docker,kubernetes,nginx,githubactions,aws,git,github,linux,postman,vscode,idea&perline=12" alt="tech stack" />
   <br/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman divider" />
 </p>
 
 ### 📊 GitHub Stats
@@ -100,4 +92,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="coding vibe" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman" />
 </p>
