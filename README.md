@@ -22,16 +22,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 Currently building: _add your current project here_
-- 🌱 Currently learning: _add what you're learning_
-- 💬 Ask me about: _your main skills_
-- 📫 Reach me at: _your email or link_
-- ⚡ Fun fact: _something memorable_
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
