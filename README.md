@@ -26,7 +26,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="200" alt="hi there" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="200" alt="coding gif" />
     </td>
     <td valign="middle">
       <h1>Hi 👋, I'm Devjeet Saha</h1>
